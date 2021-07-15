@@ -1,4 +1,4 @@
-console.log("Digital Clock");
+
 
 function showtime()
 {
